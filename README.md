@@ -1,1 +1,1 @@
-Leveraging co-expression networks to identify functional regular variants in human brain and impact in diseases
+Leveraging Co-expression Networks to Identify Functional Regular Variants in Human Brain & Impact in Diseases
