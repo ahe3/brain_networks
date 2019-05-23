@@ -5,6 +5,6 @@ if [[ ! -d data ]]; then
 	done	
 fi
 
-#python filter_expr_samples.py
-#Rscript qnormalize_expr.R
-#python split_expr.py
+python filter_expr_samples.py
+Rscript qnormalize_expr.R
+python split_expr.py

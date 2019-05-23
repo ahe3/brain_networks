@@ -1,7 +1,7 @@
 library(MASS)
 
 rm(list = ls())
-expDir <- "/work-zfs/abattle4/amy/autism/matrix-eqtl/data/"
+expDir <- "data/"
 tissues <- c("BRNACC", "BRNAMY", "BRNCDT", "BRNCTXB24", "BRNCTXBA9", "BRNHIP", "BRNHYP", "BRNPUT", "BRNSNA")
 
 quantile_normalization <- function(df){

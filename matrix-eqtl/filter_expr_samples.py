@@ -1,8 +1,8 @@
 import os
 
-expr_folder = "/work-zfs/abattle4/parsana/autism_networks/data/v8/filtered_expression_by_tissue/"
-samples_folder = "/work-zfs/abattle4/parsana/autism_networks/data/v8/samples/"
-output_folder = "/work-zfs/abattle4/amy/autism/matrix-eqtl/data/"
+expr_folder = "../wgcna/filtered_expression_by_tissue/"
+samples_folder = "../wgcna/samples/"
+output_folder = "data/"
 
 for file in os.listdir(expr_folder):
 	tissue = file.split('_')[0]

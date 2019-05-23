@@ -2,7 +2,7 @@ chro = ["chr1", "chr2", "chr3", "chr4", "chr5", "chr6", "chr7", "chr8", "chr9", 
 
 tissues = ["BRNACC", "BRNAMY", "BRNCDT", "BRNCTXB24", "BRNCTXBA9", "BRNHIP", "BRNHYP", "BRNPUT", "BRNSNA"]
 
-folder = "/work-zfs/abattle4/amy/autism/matrix-eqtl/data/"
+folder = "data/"
 
 gencode = open("/work-zfs/abattle4/lab_data/annotation/gencode.v26/gencode.v26.annotation.gene.txt", "r")
 next(gencode)
