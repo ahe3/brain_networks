@@ -1,0 +1,5 @@
+BackgroundFile: background.txt 
+Geneset: data/TF_msigdb SaveFile: BRNPUT.LSM14A.top50genes.TF.txt
+TestFile: BRNPUT.LSM14A.top50genes.txt 
+TF 	2	48	1202	15786	0.5472129783693843	0.8773392768097097	0.8773392768097097	LDB2,MYT1L
+	test_inset	test_notinset	background_inset	background_notinset	oddsratio	pvalue	bonferroni-adjusted	testgenes_in_set

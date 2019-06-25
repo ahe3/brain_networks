@@ -1,0 +1,5 @@
+BackgroundFile: background.txt 
+Geneset: data/protein_kinases_msigdb_txt.txt SaveFile: BRNPUT.KHDRBS2.top50genes.protein.txt
+TestFile: BRNPUT.KHDRBS2.top50genes.txt 
+protein_kinases 	1	49	465	16523	0.7251700680272108	0.7505774180266558	0.7505774180266558	AATK
+	test_inset	test_notinset	background_inset	background_notinset	oddsratio	pvalue	bonferroni-adjusted	testgenes_in_set

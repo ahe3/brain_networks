@@ -1,0 +1,3 @@
+TestFile: BRNPUT.KHDRBS2.genes.txt 
+BackgroundFile: BRNPUT.background.txt 
+Geneset: data/human_genesigdb.gmt SaveFile: human.txt

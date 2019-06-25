@@ -1,0 +1,3 @@
+TestFile: BRNPUT.KHDRBS2.genes.txt 
+BackgroundFile: BRNPUT.background.txt 
+Geneset: data/h.all.v6.1.symbols.gmt SaveFile: h.all.txt
